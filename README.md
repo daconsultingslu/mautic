@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 	
 <img src=".github/readme_logo.png" alt="Mautic Open Source Marketing Automation" width="150" height="150">
 	<h1 align="center"><b>Mautic</b></h1>
